@@ -1,1 +1,1 @@
-# ecommerce-website-using-wordpress
+# eCommerce website using Wordpress
